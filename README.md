@@ -12,3 +12,9 @@ The R2K project aims to both make the website easier to explore and edit, while 
 - Removal of tracker cookies
 
 While a lot of the site will require a login to access most of the apps (as they are managed by C2K), however all widgets work perfectly fine without a login and R2K itself does not require a login.
+
+## How can I use R2K?
+A public online demo is available [here,](https://vlri4.github.io/WebsiteProject/r2k.html) however this lacks some features (such as custom profile pictures) as R2K is designed to be edited and used as an offline website.
+
+## Download?
+You can download a copy of R2K [here.](https://github.com/vlri4/R2K/releases)
