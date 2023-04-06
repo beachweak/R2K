@@ -18,3 +18,6 @@ A public online demo is available [here,](https://vlri4.github.io/WebsiteProject
 
 ## Download?
 You can download a copy of R2K [here.](https://github.com/vlri4/R2K/releases)
+
+## Credits
+Everything seen within R2K was created / ported by me. "Fluff" theme by [SAMMZYO_O.](https://sammzy404.newgrounds.com/)
