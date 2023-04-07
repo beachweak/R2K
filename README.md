@@ -16,8 +16,17 @@ While a lot of the site will require a login to access most of the apps (as they
 ## How can I use R2K?
 A public online demo is available [here,](https://vlri4.github.io/WebsiteProject/r2k.html) however this lacks some features (such as custom profile pictures) as R2K is designed to be edited and used as an offline website.
 
+If you want R2K to save your customisation options, you can run it via http-server.
+- Install node.js
+- Install http-server via `npm install -g http-server`
+- CD into R2K's directory (where index.html is present)
+- Type `http-server` and hit enter
+- Access any of the provided links
+
 ## Download?
 You can download a copy of R2K [here.](https://github.com/vlri4/R2K/releases)
+
+Or, download a copy of the code via GitHub.
 
 ## Credits
 Everything seen within R2K was created / ported by me. "Fluff" theme by [SAMMZYO_O.](https://sammzy404.newgrounds.com/)
