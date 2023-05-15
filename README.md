@@ -1,4 +1,5 @@
-# <img src="https://user-images.githubusercontent.com/126778577/230227567-2bf90e42-f0fd-4b55-8d13-6089548e6f0a.png" width="100">
+
+# # <img src="https://github.com/vlri4/R2K/assets/126778577/a2f235d2-9a78-4879-bba9-25202904ea81" width="100">
 ## An open-source C2K recreation
 
 R2K is an open-source version of the Northern Irish school website [C2K](https://www.c2kschools.net). 
@@ -32,4 +33,6 @@ You can download a copy of R2K [here.](https://github.com/vlri4/R2K/releases)
 Or, download a copy of the repository code from the "Code" button above.
 
 ## Credits
-Everything seen within R2K was ported by me. "Fluff" theme by [SAMMZYO_O.](https://sammzy404.newgrounds.com/)
+Everything seen within R2K was ported by me. "Fluff" theme created for R2K by [SAMMZYO_O](https://sammzy404.newgrounds.com/). "Forest" and "Robotic" themes from [383937](https://383937.tumblr.com/).
+
+If your art is present in R2K and you don't want it to be, please open an issue report and contact me. I will remove it as soon as possible.
