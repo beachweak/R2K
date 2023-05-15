@@ -1,5 +1,5 @@
 
-# # <img src="https://github.com/vlri4/R2K/assets/126778577/a2f235d2-9a78-4879-bba9-25202904ea81" width="100">
+# <img src="https://github.com/vlri4/R2K/assets/126778577/a2f235d2-9a78-4879-bba9-25202904ea81" width="100">
 ## An open-source C2K recreation
 
 R2K is an open-source version of the Northern Irish school website [C2K](https://www.c2kschools.net). 
