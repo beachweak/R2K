@@ -12,7 +12,7 @@ The R2K project aims to both make the website easier to explore and edit, while 
 - Custom apps
 - Removal of tracker cookies
 
-While a lot of the site will require a login to access most of the apps (as they are managed by C2K), however all widgets work perfectly fine without a login and R2K itself doesn't require a login.
+While most apps will require a C2K login (as they are managed entirely by C2K themselves), all main site functionality works perfectly fine without a login. A lot of third-party apps (e.g Bard, ChatGPT, Geoguessr) will not require C2K logins.
 
 R2K also converts the C2K website to an HTML format from its original ASPX format.
 
