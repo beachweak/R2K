@@ -16,7 +16,7 @@ R2K aims to both make the website easier to explore and edit, while also adding 
 C2K managed apps will require a login, while third party apps obviously do not. All of R2K's main functionality works perfectly fine without a login.
 
 ## How can I use R2K?
-A public online demo is available [here,](https://vlri4.github.io/WebsiteProject/r2k.html) however this lacks some features (such as custom profile pictures) as R2K is designed to be edited and used as an offline website. Simply download a release of R2K, unzip it and run index.html to get started.
+A public online demo is available [here,](https://vlri4.github.io/WebsiteProject/r2k.html) however it lacks some features (such as custom profile pictures) as R2K was intended to be used and modified as an offline website. Simply download a release of R2K, unzip it and run index.html to get started.
 
 Alternatively, if you want R2K to save your customisation options while still running it offline, you can run it via http-server.
 - Install node.js
