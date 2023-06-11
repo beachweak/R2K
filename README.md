@@ -1,37 +1,43 @@
 
-# <img src="https://github.com/vlri4/R2K/assets/126778577/a2f235d2-9a78-4879-bba9-25202904ea81" width="100">
-## An open-source C2K recreation
+# <img src="https://github.com/plecakserce/R2K/assets/126778577/a2f235d2-9a78-4879-bba9-25202904ea81" width="100">
+## An open-source port of C2K
 
-R2K is an open-source version of the Northern Irish school website [C2K](https://www.c2kschools.net). 
+R2K is an attempt to open-source the NI-based school portal [C2K](https://www.c2kschools.net).
 
-R2K aims to both make the website easier to explore and edit, while also adding numerous features to the site's functionality, such as:
+The project's main goals are to make the site easier to edit and to code for, while adding new custom content, such as:
 
-- Custom themes
+- User-created themes
 - Custom profile pictures
-- Custom widgets
-- Custom apps
+- User-created widgets
 - Conversion from ASPX to HTML
-- Removal of login requirement
 
-C2K managed apps will require a login, while third party apps obviously do not. All of R2K's main functionality works perfectly fine without a login.
+Additionally, R2K also does the following:
 
-## How can I use R2K?
-A public online demo is available [here,](https://vlri4.github.io/WebsiteProject/r2k.html) however it lacks some features (such as custom profile pictures) as R2K was intended to be used and modified as an offline website. Simply download a release of R2K, unzip it and run index.html to get started.
+- Fixes many originally broken widgets with new functionality
+- Brings small adjustments to existing widgets
+- Fix file structure to make themes easier to create
+- Manages scripts in an easy to understand format
 
-Alternatively, if you want R2K to save your customisation options while still running it offline, you can run it via http-server.
-- Install node.js
-- Install npm
-- Install http-server via `npm install -g http-server`
-- Navigate into R2K's directory (where index.html is present)
-- Type `http-server` and hit enter
-- Access any of the provided URLs in your console
+R2K removes the login system from C2K, allowing any user to access the site.
+While sign in is removed and does not affect 99% of site functionality, some apps may require a C2K login.
 
-## Download?
-You can download a copy of R2K [here.](https://github.com/vlri4/R2K/releases)
+## How do I use R2K?
+There are a few ways you can run R2K:
 
-Or, download a copy of the repository code from the "Code" button above.
+- Run the web demo [here](https://plecakserce.github.io/WebsiteProject/r2k.html)
+- Download an offline copy [here](https://github.com/plecakserce/R2K/releases)
+- Run it through http-server to let your offline copy save customisation features
+
+## Are there issues with R2K?
+R2K only contains minor issues, such as:
+
+- Some pages of the original C2K are removed for privacy / copyright concerns
+- Not all widgets have been recoded or ported to R2K
+- Some widgets may not load when offline, such as the Weather widget
 
 ## Credits
-Everything seen within R2K was ported by me. "Fluff" theme created for R2K by [SAMMZYO_O](https://sammzy404.newgrounds.com/).
+R2K borrows almost all its assets from the original C2K project (as it is a port). Some features, such as the theme changer and others are coded or fixed by [plecakserce](https://github.com/plecakserce).
 
-If your art is present in R2K and you don't want it to be, please open an issue report. It will be removed shortly after.
+"Fluff" theme seen within R2K was created by [SAMMZYO_O](https://sammzy404.newgrounds.com/). 
+
+If your art is present within R2K, and you want it removed, please create a new issue on this repository.
