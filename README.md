@@ -31,9 +31,10 @@ There are a few ways you can run R2K:
 ## Are there issues with R2K?
 R2K only contains minor issues, such as:
 
+- Offline copies do not hold customisation choices for long
+- Because of the removal of a login system and server functions, customisation choices rely on browser cookies and local storage
 - Some pages of the original C2K are removed for privacy / copyright concerns
 - Not all widgets have been recoded or ported to R2K
-- Some widgets may not load when offline, such as the Weather widget
 
 ## Credits
 R2K borrows almost all its assets from the original C2K project (as it is a port). Some features, such as the theme changer and others are coded or fixed by [plecakserce](https://github.com/plecakserce).
@@ -41,3 +42,5 @@ R2K borrows almost all its assets from the original C2K project (as it is a port
 "Fluff" theme seen within R2K was created by [SAMMZYO_O](https://sammzy404.newgrounds.com/). 
 
 If your art is present within R2K, and you want it removed, please create a new issue on this repository.
+
+R2K & plecakserce is in no way associated with C2K, c2kschools.net or Capita Managed IT Solutions Limited.
