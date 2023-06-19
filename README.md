@@ -25,7 +25,7 @@ While sign in is removed and does not affect 99% of site functionality, some app
 ## How do I use R2K?
 There are a few ways you can run R2K:
 
-- Run the web demo [here](https://plecakserce.github.io/WebsiteProject/r2k.html)
+- Run the web demo [here](https://vlri4.xyz/R2K/index.html)
 - Download an offline copy [here](https://github.com/plecakserce/R2K/releases)
 - Run it through http-server to let your offline copy save customisation features
 
