@@ -1,5 +1,6 @@
 
-# <img src="https://github.com/plecakserce/R2K/assets/126778577/a2f235d2-9a78-4879-bba9-25202904ea81" width="100">
+# <img src="https://github.com/plecakserce/R2K/assets/126778577/2ad0d725-9eaf-415d-be3e-8875b6eabd88" width="100">
+
 ## An open-source port of C2K
 
 R2K is an attempt to open-source the NI-based school portal [C2K](https://www.c2kschools.net).
@@ -39,8 +40,4 @@ R2K only contains minor issues, such as:
 ## Credits
 R2K borrows almost all its assets from the original C2K project (as it is a port). Some features, such as the theme changer and others are coded or fixed by [plecakserce](https://github.com/plecakserce).
 
-"Fluff" theme seen within R2K was created by [SAMMZYO_O](https://sammzy404.newgrounds.com/). 
-
-If your art is present within R2K, and you want it removed, please create a new issue on this repository.
-
-R2K & plecakserce is in no way associated with C2K, c2kschools.net or Capita Managed IT Solutions Limited.
+"Fluff" & "Doodle Cats" themes as well as "Hoppo", "Gradient Joe", "Gerbo", "Kitty" and "Dancing Banana" profile pictures seen within R2K was created by [SAMMZYO_O](https://sammzy404.newgrounds.com/). 
