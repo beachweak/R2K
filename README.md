@@ -32,10 +32,9 @@ There are a few ways you can run R2K:
 ## Are there issues with R2K?
 R2K only contains minor issues, such as:
 
-- Offline copies do not hold customisation choices for long
-- Because of the removal of a login system and server functions, customisation choices rely on browser cookies and local storage
+- Offline copies do not hold customisation choices for long (this is more of a browser issue though)
 - Some pages of the original C2K are removed for privacy / copyright concerns
-- Not all widgets have been recoded or ported to R2K
+- Widgets are still in development
 
 ## Credits
 R2K borrows almost all its assets from the original C2K project (as it is a port). Some features, such as the theme changer and others are coded or fixed by [plecakserce](https://github.com/plecakserce).
