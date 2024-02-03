@@ -3,6 +3,8 @@
 
 ## An open-source port of C2K
 
+# This project is not actively maintained anymore! Check out [XCR](https://github.com/beachweak/XCR) for a better, more updated version.
+
 R2K is an attempt to open-source the NI-based school portal [C2K](https://www.c2kschools.net).
 
 The project's main goals are to make the site easier to edit and to code for, while adding new custom content, such as:
@@ -25,8 +27,7 @@ While sign in is removed and does not affect 99% of site functionality, some app
 ## How do I use R2K?
 There are a few ways you can run R2K:
 
-- Run the web demo [here](https://vlri4.xyz/R2K/index.html)
-- Download an offline copy [here](https://github.com/plecakserce/R2K/releases)
+- Download an offline copy [here](https://github.com/beachweak/R2K/releases)
 - Run it through http-server to let your offline copy save customisation features
 
 ## Are there issues with R2K?
